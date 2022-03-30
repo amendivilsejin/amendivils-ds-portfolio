@@ -1,2 +1,2 @@
-# amendivils-ds-portfolio
-amendivilsejin Data Science projects portfolio
+# ds-realstate-price-predict
+Intelligent prediction of real estate prices: from EDA and Feature Engineering to optimization of Advanced ML Models.
